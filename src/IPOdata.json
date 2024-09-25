@@ -1,0 +1,145 @@
+{
+    "IPOLits": [
+        {
+            "id": 1,
+            "companylogo": "https://cdn.brandfetch.io/id5WK0jp1u/w/400/h/400/theme/dark/icon.jpeg",
+            "companyName": "GO Air",
+            "companyFullName": "GO Airlines (India) Limited",
+            "companyIssueDate": "4th - 7th October 2022",
+            "issueSize": "35600 crores",
+            "priceRange": "50 - 60",
+            "minInvest": "50,000",
+            "shares": "100",
+            "lots": "5",
+            "listedOn": "15 Dec",
+            "listedPrice": "150",
+            "listingGains": "10",
+            "timelineData": [
+                {
+                    "title": "Bidding starts",
+                    "date": "12 Dec 2023",
+                    "completed": true
+                },
+                {
+                    "title": "Bidding ends",
+                    "date": "15 Dec 2023",
+                    "completed": true
+                },
+                {
+                    "title": "Allotment finalization",
+                    "date": "18 Dec 2023",
+                    "completed": true
+                },
+                {
+                    "title": "Refund initiation",
+                    "date": "18 Dec 2023",
+                    "completed": true
+                },
+                {
+                    "title": "Demat transfer",
+                    "date": "18 Dec 2023",
+                    "completed": true
+                },
+                {
+                    "title": "Listing date",
+                    "date": "21 Dec 2023",
+                    "completed": true
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "companylogo": "https://moneyinsidertips.in/wp-content/uploads/2024/06/bajaj.webp",
+            "companyName": "Bajaj Energy",
+            "companyFullName": "BAJAJ Energy Limited",
+            "companyIssueDate": "4th - 7th October 2023",
+            "issueSize": "32600 crores",
+            "priceRange": "50 - 70",
+            "minInvest": "60,000",
+            "shares": "120",
+            "lots": "10",
+            "listedOn": "15 Dec",
+            "listedPrice": "150",
+            "listingGains": "10",
+            "timelineData": [
+                {
+                    "title": "Bidding starts",
+                    "date": "12 Dec 2023",
+                    "completed": true
+                },
+                {
+                    "title": "Bidding ends",
+                    "date": "15 Dec 2023",
+                    "completed": true
+                },
+                {
+                    "title": "Allotment finalization",
+                    "date": "18 Dec 2023",
+                    "completed": true
+                },
+                {
+                    "title": "Refund initiation",
+                    "date": "18 Dec 2023",
+                    "completed": true
+                },
+                {
+                    "title": "Demat transfer",
+                    "date": "18 Dec 2023",
+                    "completed": false
+                },
+                {
+                    "title": "Listing date",
+                    "date": "21 Dec 2023",
+                    "completed": false
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "companylogo": "https://i.pinimg.com/474x/be/56/ea/be56ea1c90c428b1c79068e00ab81719.jpg",
+            "companyName": "Oyo",
+            "companyFullName": "OYO Private Limited",
+            "companyIssueDate": "To be announced",
+            "issueSize": "31600 crores",
+            "priceRange": "100 - 200",
+            "minInvest": "20,000",
+            "shares": "100",
+            "lots": "5",
+            "listedOn": "15 Dec",
+            "listedPrice": "150",
+            "listingGains": "10",
+            "timelineData": [
+                {
+                    "title": "Bidding starts",
+                    "date": "12 Dec 2023",
+                    "completed": true
+                },
+                {
+                    "title": "Bidding ends",
+                    "date": "15 Dec 2023",
+                    "completed": true
+                },
+                {
+                    "title": "Allotment finalization",
+                    "date": "18 Dec 2023",
+                    "completed": true
+                },
+                {
+                    "title": "Refund initiation",
+                    "date": "18 Dec 2023",
+                    "completed": false
+                },
+                {
+                    "title": "Demat transfer",
+                    "date": "18 Dec 2023",
+                    "completed": false
+                },
+                {
+                    "title": "Listing date",
+                    "date": "21 Dec 2023",
+                    "completed": false
+                }
+            ]
+        }
+    ]
+}
